@@ -1,6 +1,6 @@
 
 
-- 🔭 I’m currently working on DataArt
+- 🔭 I’m currently working on N-ix
 - 🌱 I’m currently learning Cloud Native Applicaton
 - 👯 I’m looking to collaborate on GCP, Azure or other cloud related things
 - 🤔 I’m looking for help with Azure
